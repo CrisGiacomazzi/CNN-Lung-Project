@@ -34,7 +34,7 @@ Deep learning models, such as convolutional neural networks (CNNs), are excellen
 
 Image by Anderson (2024). Performance by physician specialty. Average AUC for radiologists, emergency medicine physicians, family medicine physicians, and internal medicine physicians when unaided (red) and aided (blue) by the AI system. Error bars represent 95% confidence intervals calculated using bootstrap sampling (m = 1000).
 
-The 
+The purpose of this project it to use CNN to classify X-ray images. 
 
 **2. Data Understanding**
 
